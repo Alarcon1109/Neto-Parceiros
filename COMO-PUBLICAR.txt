@@ -1,0 +1,20 @@
+NETO PARCEIROS - COMO COLOCAR O SITE NO AR (GRATIS, PELO GITHUB)
+
+1. Entre em github.com com a sua conta (Alarcon1109).
+2. Clique no "+" (canto de cima, a direita) > "New repository".
+   - Repository name: Neto-Parceiros
+   - Marque "Public"
+   - Clique em "Create repository".
+3. Na pagina que abrir, clique no link "uploading an existing file".
+4. Abra a pasta Documentos\Neto\parceiros-site no computador, selecione TUDO
+   (Ctrl+A) e arraste para a pagina do GitHub. Inclui as pastas cadastro, entrar,
+   equipe e painel. NAO precisa enviar este arquivo COMO-PUBLICAR.txt.
+5. Embaixo, clique no botao verde "Commit changes".
+6. Clique em "Settings" (engrenagem, no topo do repositorio) > "Pages" (menu da esquerda).
+   - Em "Branch", escolha "main" e a pasta "/ (root)" > "Save".
+7. Espere 1 a 2 minutos. O site fica em:
+   https://alarcon1109.github.io/Neto-Parceiros/
+   Link para mandar aos parceiros:  https://alarcon1109.github.io/Neto-Parceiros/cadastro/
+
+Seguranca: o site nao guarda nenhuma senha nem chave secreta. Ele usa so a chave
+publica do Neto (a mesma do app) e todas as regras de protecao ficam no banco.
