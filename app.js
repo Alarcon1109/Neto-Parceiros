@@ -7,10 +7,10 @@
 (function () {
   "use strict";
 
-  var API = "https://kibckrdsjdrxteunbzos.supabase.co";
-  var KEY = "sb_publishable_uODlb3ns3TMQo-NXa92R5A_XO61uPoi";
+  var API = "https://unesfkmxactooxaemkvo.supabase.co";
+  var KEY = "sb_publishable_UM4p0NWHEAKWr68ZQL0Rmg_9HhORDRr";
   var CONTATO = "alarconlll59@gmail.com";
-  var PRIVACIDADE = "https://pixel-perfect-replay-39640.lovable.app/privacidade";
+  var PRIVACIDADE = "https://netoapp.com.br/privacidade/";
   var INATIVO_MS = 30 * 60 * 1000;
   var SK = "neto_parceiros_sessao";
 
